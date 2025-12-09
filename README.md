@@ -127,6 +127,11 @@ To find the equivalent resistance between Node A and Node B:
 5.  Result: $R_{eq} = \frac{V_{test}}{I_{total}}$
 
 * * * * *
+ 🔢**Flowchart**
+---------
+<img width="1448" height="2115" alt="image" src="https://github.com/user-attachments/assets/5210102c-856a-47ed-b38e-1ecfc25eecfd" />
+
+****************
 
 🚀 **Why This Tool Is Useful**
 ------------------------------
